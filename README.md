@@ -23,5 +23,5 @@ https://github.com/plexinc/plex-media-player
 These are the dependencies currently fed manually into [checkinstall](https://github.com/giuliomoro/checkinstall).
 
 ```
-libmpv1,libqt5xml5,libqt5webengine5,libqt5widgets5,libqt5x11extras5,libqt5quick5,libqt5quickcontrols2-5,qml-module-qtwebchannel,qml-module-qtwebengine,qml-module-qtquick-controls2,xserver-xorg,xserver-xorg-legacy,x11-utils,xinit
+libmpv1,libqt5xml5,libqt5webengine5,libqt5widgets5,libqt5x11extras5,libqt5quick5,libqt5quickcontrols2-5,qml-module-qtwebchannel,qml-module-qtwebengine,qml-module-qtquick-controls,qml-module-qtquick-controls2,xserver-xorg,xserver-xorg-legacy,x11-utils,xinit
 ```
